@@ -56,7 +56,7 @@ Use any of the following to invoke this skill:
 
 ## Author: Patrick Diamitani
 
-GTM AI & Automation Manager at Atlas HXM. Founder of Artispreneur. Builder of the ROSTR agent platform.
+GTM AI & Automation Manager at Enterprise Platform. Founder of Artispreneur. Builder of the ROSTR agent platform.
 
 - GitHub: [@diamitani](https://github.com/diamitani)
 - LinkedIn: [linkedin.com/in/diamitani](https://linkedin.com/in/diamitani)
