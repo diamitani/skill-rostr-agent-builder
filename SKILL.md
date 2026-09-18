@@ -1,3 +1,9 @@
+---
+name: rostr-agent-builder
+description: >
+  Universal AI Agent Skill: Scaffold production-ready multi-agent Python systems from specs — part of the ROSTR platform Use this skill when working with rostr agent builder tasks or workflows.
+---
+
 # ROSTR-Agent-Builder.skill
 
 **Purpose:** Scaffold production-ready multi-agent Python systems from agent specifications.
